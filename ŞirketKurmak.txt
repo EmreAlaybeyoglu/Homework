@@ -1,0 +1,50 @@
+---Şirket Kurmak---
+
+1-Başla 
+
+2-Sermaye oluştur
+
+3-Kendi içine dönerek hobilerini ve yapmayı sevdiğin işleri keşfet
+
+4-Piyasada bu hobilerin dogrultusunda ve karlı olan alanları tespit et 
+
+5-Bu alanlar içerisinden en yeniliğe açık ve geleceği olanları seç
+
+6-Bu alanlardan bir tanesinde karar kıl
+
+7-Bir fikir bul
+
+8-Bu fikri gerçekleştirmek için neler gerektiginin bir listesini oluştur
+
+9-Eğer bu fikir tek başına gerçekleştirilebilecek bir fikir değilse
+
+10-	Hangi konularda yardım gerektigini kararlaştır ve buna uygun takım arkadaşları bul
+
+11-	Görev dağılımı yap ve ekip üyeleri arasında paylaştır
+
+12-	Ekip üyelerinin görevlerini yerine getirebilmeleri için gereken kaynakları sağlamak için sermayeni kullan
+
+13-Tek başına gerçekleştirilebilecek bir fikir ise
+
+14-	Kendine bir yapılacaklar listesi hazırla
+
+15-	Bu yapılacaklar için gereken kaynakları sermayeni kullanarak kendine sağla
+
+16-Bir çalışma çizelgesi oluştur
+
+17-Ortaya bir prototip çıkarana kadar çalış
+
+18-Sonra bu prototip ile yatırımcı aramaya başla
+
+19-Yatırımcılarla anlaşmaya var 
+
+20-Yatırımcıların desteği ile birlikte nihai ürünü üret
+
+21-Ürünü piyasaya sür
+
+22-Bitiş
+
+
+
+
+

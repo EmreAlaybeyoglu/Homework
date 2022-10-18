@@ -1,0 +1,59 @@
+--- Günlük Rutin ---
+
+1-Başla
+
+2-Uyan 
+
+3-Telefon bildirimlerini kontrol et 
+
+4-Eğer önemli bir bildirim varsa onunla ilgilen 
+
+5-Telefonu sehpaya bırak 
+
+6-Banyoya git 
+
+7-Eğer tuvaletin varsa hallet ve elini yıka
+
+8-Yüzünü yıka
+
+9-Mutfağa geç
+
+10-Eğer uyanamamış hissediyorsan dolabı aç 
+
+11-	Eğer kahve varsa kahve yap ve iç
+
+12-Eğer acıktıysan kahvaltılık malzeme var mı diye bak
+
+13-	Eğer varsa kahvaltı yap
+
+14-Hava durumunu kontrol et 
+
+15-Eğer hava soğuksa kalın giyin
+
+16-Değilse ince giyin
+
+17-Dersin başlamasına kalan süreyi kontrol et 
+
+18-Eğer 30 dakikadan fazla zaman varsa yürüyerek git 
+
+19-Yoksa otobüse bin 
+
+20-Okulda zaman geçir
+
+21-Okul çıkışı eğer yağmur yağıyorsa otobüse bin 
+
+22-Yoksa yürüyerek yola çık
+
+23-Eve var
+
+24-Eğer acıktıysan malzeme var mı diye bak
+
+25-	Eğer varsa yemek hazırla
+
+26-	Yoksa yemek sipariş et
+
+27-Eğer yatma vakti gelmediyse vakit gelene kadar zaman geçir
+
+28-Geldiyse yat uyu
+
+29-Bitiş
